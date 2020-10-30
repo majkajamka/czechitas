@@ -5,11 +5,11 @@
 2. 300: Rise of an Empire (2014)
 
 ## Bourne
-1. Jason Bourne (2016)
-2. The Bourne Legacy (2012)
+1. The Bourne Identity (2002)
+2. The Bourne Supremacy (2004)
 3. The Bourne Ultimatum (2007)
-4. The Bourne Supremacy (2004)
-5. The Bourne Identity (2002)
+4. The Bourne Legacy (2012)
+5. Jason Bourne (2016)
 
 ## Mission: Impossible
 1. Mission: Impossible, (1996)
